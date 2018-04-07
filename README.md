@@ -1,5 +1,5 @@
 # DS-GA1007:Programming for Data Science 
-Movie Recommendation Project
+# Movie Recommendation Project
 
 Steps for Enjoying Movie Recommendation Project
 1. Download MovieRecommendation.zip files from NYUclasses.
@@ -22,3 +22,37 @@ to the movie you entered. For example, you can enter godfather to get
 some similar movies to The Godfather. Fuzzy search is allowed.
 6. When you get satisfied with the results, enter ‘Q’ to quit for
 bothrecommendation systems.
+
+The genre of movies You can search are as follows:
+1. Animation
+2. Comedy
+3. Family
+4. Adventure
+5. Fantasy
+6. Romance
+7. Drama
+8. Action
+9. Crime
+10. Thriller
+11. Horror
+12.History
+13. Science Fiction
+14. Mystery
+15. War
+16. Foreign
+17. Music
+18. Documentary
+19. Western
+20. TV Movie
+21. Carousel Productions
+22. Vision View Entertainment
+23. Telescene Film Group Productions
+24. Aniplex
+25. GoHands
+26.BROSTA TV
+27. Mardock Scramble Production Committee
+28.Sentai Filmworks
+29. Odyssey Media
+30. Pulser Productions
+31. Rogue State
+32. The Cartel
