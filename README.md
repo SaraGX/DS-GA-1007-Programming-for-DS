@@ -1,5 +1,6 @@
-# DS-GA1007:Programming for Data Science 
 # Movie Recommendation Project
+## DS-GA1007:Programming for Data Science 
+
 
 Steps for Enjoying Movie Recommendation Project
 1. Download MovieRecommendation.zip files from NYUclasses.
